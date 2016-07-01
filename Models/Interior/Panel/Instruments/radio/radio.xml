@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+  
+  <path>radio.ac</path>
+  
+  <animation>
+    <object-name>body</object-name>
+    <object-name>knob.LEFT.circle</object-name>
+    <object-name>knob.RIGHT.circle</object-name>
+    <object-name>knob.MODE.circle</object-name>
+    <object-name>knob.POWER.circle</object-name>
+    <object-name>knob.LEFT</object-name>
+    <object-name>knob.RIGHT</object-name>
+    <object-name>knob.MODE</object-name>
+    <object-name>knob.POWER</object-name>
+    <object-name>LED.0_OFF</object-name>
+    <object-name>LED.1_OFF</object-name>
+    <object-name>LED.0_ON</object-name>
+    <object-name>LED.1_ON</object-name>
+    <object-name>button.ENTER</object-name>
+    <object-name>button.ESCAPE</object-name>
+    <object-name>button.START</object-name>
+    <object-name>LCD.display</object-name>
+  </animation>
+  
+</PropertyList>

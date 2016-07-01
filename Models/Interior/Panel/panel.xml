@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+
+  <path>panel.ac</path>
+
+  <animation>
+    <!-- Objets opaques -->
+    <object-name>panel</object-name>
+    <object-name>panel2</object-name>
+    <object-name>panel3</object-name>
+    
+    <!-- Objets transparents -->
+  </animation>
+
+  <!-- IMMATRICULATION -->
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Immat/immat.xml</path>
+  </model>
+  
+  <!-- PLAQUES -->
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/plaques/plaques.xml</path>
+  </model>
+  
+  <!-- Pedals -->
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/pedals/pedals.xml</path>
+    <offsets>
+      <x-m> -0.19645 </x-m>
+      <y-m>  0.00000 </y-m>
+      <z-m> -0.35841 </z-m>
+    </offsets>
+  </model>
+  
+  <!--TRIM-->
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/trim/trim.xml</path>
+    <offsets>
+      <x-m>  0.247 </x-m>
+      <y-m>  0.000 </y-m>
+      <z-m> -0.418 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- ASI -->
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/asi/asi.xml</path>
+    <offsets>
+      <x-m>  0.003 </x-m>
+      <y-m> -0.218 </y-m>
+      <z-m>  0.063 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- ALT -->
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/alt/alt.xml</path>
+    <offsets>
+      <x-m>  0.000 </x-m>
+      <y-m> -0.116 </y-m>
+      <z-m>  0.073 </z-m>
+    </offsets>
+  </model>
+
+  <!-- TURN -->
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/turn/turn.xml</path>
+    <offsets>
+      <x-m> -0.002 </x-m>
+      <y-m> -0.124 </y-m>
+      <z-m> -0.020 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- RPM -->
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/rpm/rpm.xml</path>
+    <offsets>
+      <x-m> 0.000 </x-m>
+      <y-m> 0.118 </y-m>
+      <z-m> 0.074 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- VSI -->
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/vsi/vsi.xml</path>
+    <offsets>
+      <x-m>  0.000 </x-m>
+      <y-m> -0.310 </y-m>
+      <z-m>  0.024 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- SWITCH -->
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/switch/mag.xml</path>
+    <offsets>
+      <x-m>  0.00009 </x-m>
+      <y-m> -0.24126 </y-m>
+      <z-m> -0.03671 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/switch/strobe.xml</path>
+    <offsets>
+      <x-m>  0.000 </x-m>
+      <y-m> -0.196 </y-m>
+      <z-m> -0.037 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- KEY STARTER -->
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/key/key.xml</path>
+    <offsets>
+      <x-m>  0.00004 </x-m>
+      <y-m> -0.40330 </y-m>
+      <z-m> -0.03565 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- OIL -->
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/oil/pressure.xml</path>
+    <offsets>
+      <x-m>  0.000 </x-m>
+      <y-m>  0.113 </y-m>
+      <z-m> -0.016 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/oil/temp.xml</path>
+    <offsets>
+      <x-m>  0.000 </x-m>
+      <y-m>  0.198 </y-m>
+      <z-m> -0.016 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- BATTERY -->
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/battery/battery.xml</path>
+    <offsets>
+      <x-m> 0.000 </x-m>
+      <y-m> 0.228 </y-m>
+      <z-m> 0.071 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- RADIO -->
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/radio/radio.xml</path>
+    <offsets>
+      <x-m> 0.004 </x-m>
+      <y-m> 0.000 </y-m>
+      <z-m> 0.084 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- TRANSPONDER -->
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/transponder/transponder.xml</path>
+    <offsets>
+      <x-m>  0.004 </x-m>
+      <y-m>  0.000 </y-m>
+      <z-m> -0.002 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- FUSES -->
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/fuse/fuse.xml</path>
+    <offsets>
+      <x-m> 0.00000 </x-m>
+      <y-m> 0.37315 </y-m>
+      <z-m> 0.00650 </z-m>
+      <roll-deg> 15 </roll-deg>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/fuse/fuse.xml</path>
+    <offsets>
+      <x-m>  0.00000 </x-m>
+      <y-m>  0.37315 </y-m>
+      <z-m> -0.02286 </z-m>
+      <roll-deg> -45 </roll-deg>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/fuse/fuse.xml</path>
+    <offsets>
+      <x-m>  0.00000 </x-m>
+      <y-m>  0.37315 </y-m>
+      <z-m> -0.05218 </z-m>
+      <roll-deg> 35 </roll-deg>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/fuse/fuse.xml</path>
+    <offsets>
+      <x-m>  0.00000 </x-m>
+      <y-m>  0.40319 </y-m>
+      <z-m> -0.05218 </z-m>
+      <roll-deg> 63 </roll-deg>
+    </offsets>
+  </model>
+  
+  <!-- THROTTLES -->
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/throttle/throttle.xml</path>
+    <offsets>
+      <x-m> -0.007 </x-m>
+      <y-m> -0.401 </y-m>
+      <z-m> -0.089 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/throttle/throttle.xml</path>
+    <offsets>
+      <x-m> -0.007 </x-m>
+      <y-m>  0.009 </y-m>
+      <z-m> -0.089 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- EXHAUST -->
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/exhaust/exhaust0.xml</path>
+    <offsets>
+      <x-m>  0.000 </x-m>
+      <y-m>  0.296 </y-m>
+      <z-m> -0.017 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/exhaust/exhaust1.xml</path>
+    <offsets>
+      <x-m> 0.000 </x-m>
+      <y-m> 0.314 </y-m>
+      <z-m> 0.057 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- COMPASS -->
+  <model>
+    <path>Aircraft/SuperGuepard912/Models/Interior/Panel/Instruments/MagneticCompass/MagneticCompass.xml</path>
+    <offsets>
+      <x-m> 0.022 </x-m>
+      <y-m> 0.000 </y-m>
+      <z-m> 0.197 </z-m>
+    </offsets>
+  </model>
+  
+</PropertyList>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+
+  <engines>
+    <engine n="0">
+      <mag0 type="bool">false</mag0>
+      <mag1 type="bool">false</mag1>
+    </engine>
+  </engines>
+  
+  <switches>
+    <nav-lights type="bool">false</nav-lights>
+    <landing-lights type="bool">false</landing-lights>
+  </switches>
+  
+  <lighting>
+    <instrument-lights type="bool">false</instrument-lights>
+  </lighting>
+  
+  <gear>
+    <brake-parking type="double">1</brake-parking>
+  </gear>
+  
+</PropertyList>
